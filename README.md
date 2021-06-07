@@ -6,7 +6,7 @@ Was created and run on [Google Colab](https://colab.research.google.com/) using 
 
 To run on any other environment other than Colab, make changes to the initial part accordingly
 
-The model webapp is available [here](https://is-your-mask-on.anvil.app)
+The webapp is available [here](https://is-your-mask-on.anvil.app)
 ____
 ### Model Summary
 
