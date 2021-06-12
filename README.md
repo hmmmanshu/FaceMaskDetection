@@ -7,6 +7,8 @@ Was created and run on [Google Colab](https://colab.research.google.com/) using 
 To run on any other environment other than Colab, make changes to the initial part accordingly
 
 The webapp is available [here](https://is-your-mask-on.anvil.app) (the uplink is kinda bugged)
+![](./SS.png)
+
 ____
 ### Model Summary
 
